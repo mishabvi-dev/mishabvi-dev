@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀 About Me<br><br>🎓 Studying BCA at  YENEPOYA University<br><br>💻 Passionate about DATA AND TECH<br><br>🔭 I’m currently working on data anlaytics<br><br>🌱 I’m currently learning Power B I<br><br>💬 Ask me about SQL, FRONTEND<br><br>📫 How to reach me:  www.linkedin.com/in/mishabvi
+🎓 2nd-Year BCA Student at YENEPOYA University | Specializing in Data Science & AI
+💻 Building predictive models and data-driven solutions
+🔭 Currently executing data analytics projects using Python, Pandas, and Scikit-Learn
+🌱 Upskilling in Power BI and Cloud Deployment
+💬 Ask me about: AI early warning systems, SQL, and Frontend Integration
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mishabvi)
+
 
 
 ## 🌐 Socials:
